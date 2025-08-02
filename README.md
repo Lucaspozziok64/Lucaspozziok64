@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="945" height="250" alt="github-header-image (3)" src="https://github.com/user-attachments/assets/5fbdcbf2-89a5-469d-9e66-90cff986bea6" />
+  <img width="945" height="250" alt="github-header-image (1)" src="https://github.com/user-attachments/assets/c6c39894-9b0f-434d-b0c2-5160e6e1fd10" />
 </p>
 
 I'm a **Full Stack Developer specialized in the MERN stack** (MongoDB, Express, React, Node.js). I'm passionate about building complete web applications—from robust backends to intuitive and dynamic interfaces. I also have experience with modern project management and deployment tools.
