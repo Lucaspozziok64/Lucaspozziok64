@@ -57,7 +57,7 @@ I use [Netlify Analytics](https://www.netlify.com/blog/2021/12/14/monitor-the-he
 
 ## 📫 Contact
 
-- 🌐 [Portfolio](https://tuportfolio.com)
+- 🌐 [Portfolio](https://myportfoliolucas.netlify.app/)
 - 💼 [LinkedIn](https://linkedin.com/in/lucas-figueroa-579b0b30b)
 - 📬 lukafigueroa64@gmail.com
 
