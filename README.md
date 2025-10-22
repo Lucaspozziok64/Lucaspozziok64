@@ -37,21 +37,18 @@ I'm a **Full Stack Developer specialized in the MERN stack** (MongoDB, Express, 
 
 ---
 
-## 📈 Netlify Analytics
+## 📈 GitHub Stats
 
-I use [Netlify Analytics](https://www.netlify.com/blog/2021/12/14/monitor-the-health-and-usage-of-your-sites-with-netlify-analytics/) to monitor the performance of my sites, including:
-- 📊 Pageviews and unique visitors
-- 🌍 Top locations
-- 🔗 Traffic sources and most visited pages
-- ⚡ Core Web Vitals metrics via Netlify Labs
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lucaspozziok64&show_icons=true&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucaspozziok64&layout=compact&theme=github_dark" />
+</p>
 
----
+## 🏆 GitHub Trophies
 
-## 🚀 Currently working on...
-
-- 🔧 Improving workflows with pre-commit hooks and aliases
-- 🧪 Exploring authentication and data handling in React
-- 🎨 Refining transitions and animations to enhance user experience
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Lucaspozziok64&theme=radical&margin-w=15&margin-h=15" />
+</p>
 
 ---
 
