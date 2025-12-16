@@ -52,6 +52,9 @@ I'm a **Full Stack Developer specialized in the MERN stack** (MongoDB, Express, 
 
 ---
 
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Lucaspozziok64.Lucaspozziok64&color=blue)
+
+
 ## 📫 Contact
 
 - 🌐 [Portfolio](https://myportfolioweb0.netlify.app/)
