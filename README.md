@@ -57,7 +57,7 @@ I'm a **Full Stack Developer specialized in the MERN stack** (MongoDB, Express, 
 
 ## 📫 Contact
 
-- 🌐 [Portfolio](https://myportfolioweb0.netlify.app/)
+- 🌐 [Portfolio](https://lucasfigueroa.netlify.app/)
 - 💼 [LinkedIn](https://linkedin.com/in/lucas-figueroa-579b0b30b)
 - 📬 lukafigueroa64@gmail.com
 
